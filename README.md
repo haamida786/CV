@@ -25,7 +25,7 @@ The CV is designed to be easily styled in future projects and ensures important 
 
 ## Project URL
 
-You can view the project live at:(https://github.com/haamida786/CV)
+You can view the project live at (https://roadmap.sh/projects/single-page-cv)
 
 ## SEO & Social Sharing Details
 
